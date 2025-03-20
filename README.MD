@@ -2,6 +2,7 @@ This is a pair of multistream vban_receptors for pipewire and jack on Linux
 (the jack version may be simply reworked for Mac OS)
 
 To build just run build.sh script for every one.
+Also, you can use QT Creator as IDE if you want debug.
 
  
  usage: vban_receptor_jack <args>
